@@ -83,7 +83,7 @@ This repository contains the structure for an enterprise SaaS platform UI built 
 ### Installation
 
 1. Clone the repository:
-   ```sh
+   ```sh https://github.com/SabarinathanFE/my-sass-project.git
    cd my-saas-platform
 
 Install dependencies:
