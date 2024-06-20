@@ -1,0 +1,5 @@
+string_ids:
+  # Common strings to be used across project
+  - "continue"
+
+  - $ref: "./titles.yaml#/string_ids"
